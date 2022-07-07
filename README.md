@@ -33,7 +33,7 @@ Users should be able to:
 - [Framer Motion](https://www.framer.com/motion/) - For animations
 - [Tailwind](https://tailwindcss.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 ```css
