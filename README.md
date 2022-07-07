@@ -11,9 +11,6 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
