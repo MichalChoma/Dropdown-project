@@ -28,7 +28,6 @@ const Modal = ({ modal, closeModal }) => {
           initial="hidden"
           animate="visible"
           exit="hidden"
-          // transition={{ type: "spring", stiffness: 50 }}
           transition={{ type: 'spring', duration: 0.5 }}
           onClick={checkToClose}
         >
@@ -45,10 +44,6 @@ const Modal = ({ modal, closeModal }) => {
                   childrens={el.childrens}
                 />
               ))}
-              {/* <p className="text-gray-500 py-2 flex items-center">{navContent.features.text} <ArrowDown style={{marginLeft: '8px'}}/></p>
-              <p className="text-gray-500 py-2 flex items-center">{navContent.company.text} <ArrowDown style={{marginLeft: '8px'}}/></p>
-              <p className="text-gray-500 py-2 flex items-center">{navContent.careers}</p>
-              <p className="text-gray-500 py-2 flex items-center">{navContent.about}</p> */}
             </div>
             <div className="flex flex-col items-center w-100">
               <p className="text-gray-500 cursor-pointer py-3 flex items-center hover:text-black duration-300">
